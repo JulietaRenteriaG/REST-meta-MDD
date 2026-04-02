@@ -54,4 +54,4 @@ Thumbs.db
 .env.*
 !.env.example
 secrets.json
-credentials.json
+credentials.jsonnotebook/data/connectivity_power264.csv
